@@ -1,0 +1,34 @@
+* {
+    font-family: 'Anton', sans-serif;
+}
+
+h1 {
+    padding: 50px;
+}
+
+h2 {
+    padding-bottom: 40px;
+}
+
+button {
+    padding: 15px;
+    border: 2px solid black;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: black;
+    color: #f9f9f9;
+    transition: 0.3s;
+}
+
+#result {
+    width: 100%;
+    margin-top: 30px;
+}
+
+img {
+    padding: 50px;
+    display: none;
+    margin: 0 auto;
+}
